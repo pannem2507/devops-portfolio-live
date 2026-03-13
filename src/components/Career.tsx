@@ -1,4 +1,3 @@
-```tsx
 import "./styles/Career.css";
 
 const Career = () => {
@@ -65,7 +64,7 @@ const Career = () => {
                 systems.
               </p>
             </div>
-          
+          </div>
         </div>
       </div>
     </div>
@@ -73,4 +72,3 @@ const Career = () => {
 };
 
 export default Career;
-```
